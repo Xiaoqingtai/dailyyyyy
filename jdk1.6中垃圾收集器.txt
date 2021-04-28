@@ -1,0 +1,6 @@
+serial、
+ParNew、
+Parallel Scavenge、
+CMS、
+Serial old、
+Parallel Old
